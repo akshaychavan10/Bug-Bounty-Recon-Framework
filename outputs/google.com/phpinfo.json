@@ -1,0 +1,22 @@
+[
+    {
+        "query": "site:google.com intitle:\"phpinfo()\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intext:\"PHP Version\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intext:\"phpinfo()\" \"Server API\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"phpinfo.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intext:\"Configuration File (php.ini) Path\"",
+        "results": []
+    }
+]

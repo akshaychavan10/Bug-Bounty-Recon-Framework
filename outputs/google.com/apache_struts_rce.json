@@ -1,0 +1,22 @@
+[
+    {
+        "query": "site:google.com inurl:\"struts\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intext:\"Apache Struts\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"action.do\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"action.action\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intext:\"Struts Problem Report\"",
+        "results": []
+    }
+]

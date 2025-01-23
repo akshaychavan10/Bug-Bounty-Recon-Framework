@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bug Bounty Recon Data</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .target-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .target-list li {
+            margin: 10px 0;
+        }
+        .target-list a {
+            text-decoration: none;
+            color: #007BFF;
+            font-size: 18px;
+        }
+        .target-list a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bug Bounty Recon Data</h1>
+    <ul class="target-list">
+        {% for target in targets %}
+            <li>
+                <a href="{{ url_for('target_details', target_name=target['target_name']) }}">
+                    {{ target['target_name'] }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

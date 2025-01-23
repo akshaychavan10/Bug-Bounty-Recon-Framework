@@ -1,0 +1,88 @@
+{
+    "google_dorks": [
+        {
+            "query": "site:tesla.com \"atlassian\"",
+            "results": [
+                "https://www.tesla.com/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/careers/search/job/engineering-technician-vehicle-dynamics-231797",
+                "https://www.tesla.com/no_NO/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/nl_NL/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/it_IT/careers/search/job/engineering-technician-vehicle-dynamics-231797",
+                "https://www.tesla.com/zh_MO/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/fi_FI/careers/search/job/engineering-technician-vehicle-dynamics-231797",
+                "https://www.tesla.com/es_PR/careers/search/job/engineering-technician-vehicle-dynamics-231797",
+                "https://www.tesla.com/ja_JP/careers/search/job/engineering-technician-vehicle-dynamics-231797",
+                "https://www.tesla.com/el_GR/careers/search/job/engineering-technician-vehicle-dynamics-231797"
+            ]
+        },
+        {
+            "query": "site:tesla.com \"bitbucket\"",
+            "results": [
+                "https://www.tesla.com/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/en_PH/careers/search/job/product-analyst-internship-226203",
+                "https://www.tesla.com/tr_TR/careers/search/job/sr-software-engineer-frontend-analytics-platform--226796",
+                "https://www.tesla.com/careers/search/job/sr-software-engineer-frontend-analytics-platform--226796",
+                "https://www.tesla.com/nl_NL/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/zh_MO/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/it_IT/careers/search/job/software-engineer-systems-qa-vehicle-software--229696",
+                "https://www.tesla.com/fr_FR/careers/search/job/sr-software-engineer-frontend-analytics-platform--226796",
+                "https://www.tesla.com/is_IS/careers/search/job/sr-software-engineer-frontend-analytics-platform--226796"
+            ]
+        },
+        {
+            "query": "site:tesla.com \"jira\"",
+            "results": [
+                "https://www.tesla.com/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/careers/search/job/sr-software-product-manager-manufacturing-quality-225290",
+                "https://www.tesla.com/careers/search/job/sr-technical-program-manager-test-systems-engineering-231882",
+                "https://www.tesla.com/lt_LT/careers/search/job/technical-program-manager-sensing-hardware-software-233367",
+                "https://www.tesla.com/de_DE/careers/search/job/technical-program-management-internship-new-product-introduction-vehicle-m-w-d-gigafactory-berlin-brandenburg-230644",
+                "https://www.tesla.com/de_DE/careers/search/job/engineering-technician-active-safety-234536",
+                "https://www.tesla.com/de_DE/careers/search/job/senior-staff-technical-program-manager-drive-unit-development-powertrain-m-f-d-gigafactory-berlin-brandenburg-233197",
+                "https://www.tesla.com/careers/search/job/engineering-technician-vehicle-test--227094",
+                "https://www.tesla.com/de_DE/careers/search/job/software-qa-engineer-service-applications-232159",
+                "https://www.tesla.com/careers/search/job/technical-program-management-internship-new-product-introduction-vehicle-m-w-d-gigafactory-berlin-brandenburg-230644"
+            ]
+        },
+        {
+            "query": "site:tesla.com \"confluence\"",
+            "results": [
+                "https://www.tesla.com/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303",
+                "https://www.tesla.com/careers/search/job/sr-technical-program-manager-test-systems-engineering-231882",
+                "https://www.tesla.com/de_DE/careers/search/job/software-qa-engineer-service-applications-232159",
+                "https://www.tesla.com/de_DE/careers/search/job/technical-program-management-internship-new-product-introduction-vehicle-m-w-d-gigafactory-berlin-brandenburg-230644",
+                "https://www.tesla.com/careers/search/job/technical-program-management-internship-new-product-introduction-vehicle-m-w-d-gigafactory-berlin-brandenburg-230644",
+                "https://www.tesla.com/de_DE/careers/search/job/program-manager-vehicle-attributes-233176",
+                "https://www.tesla.com/careers/search/job/software-qa-engineer-service-applications-232159",
+                "https://www.tesla.com/careers/search/job/technical-project-engineer-cell-engineering-electrode-m-w-d-gigafactory-berlin-brandenburg-231208",
+                "https://www.tesla.com/de_DE/careers/search/job/supervisor-data-labeling-tesla-bot-234473",
+                "https://www.tesla.com/nl_NL/careers/search/job/staff-site-reliability-engineer-engineering-tools-226303"
+            ]
+        },
+        {
+            "query": "intitle:\"Bitbucket\" site:tesla.com",
+            "results": []
+        },
+        {
+            "query": "intitle:\"Atlassian Jira\" site:tesla.com",
+            "results": []
+        },
+        {
+            "query": "intitle:\"Atlassian Confluence\" site:tesla.com",
+            "results": []
+        },
+        {
+            "query": "inurl:\"jira\" site:tesla.com",
+            "results": []
+        },
+        {
+            "query": "inurl:\"bitbucket\" site:tesla.com",
+            "results": []
+        }
+    ],
+    "port_scan": {
+        "7990": "Closed",
+        "8080": "Closed"
+    },
+    "github_dork": []
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_config.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"database.yml\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_connection.ini\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"database.json\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_backup.sql\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"mysql.cnf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"pg_hba.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"mariadb.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"sqlite.db\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"sqlbackup.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_schema.sql\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"oracle.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_settings.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"connection.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"database_credentials.txt\"",
+        "results": []
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "query": "site:google.com intitle:\"index of\" \".bash_history\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \".sh_history\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"index.html.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"index.php.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"index.jsp.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \".htpasswd\" \"htpasswd.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:backup intitle:\"index of\" inurl:admin",
+        "results": []
+    },
+    {
+        "query": "site:google.com \"Index of /backup\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"index.html~\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"index.php~\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"guestbook.cgi\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"fpcount.exe\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"msadcs.dll\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"trillian.ini\"",
+        "results": []
+    }
+]

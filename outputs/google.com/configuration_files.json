@@ -1,0 +1,102 @@
+[
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.inc.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.json\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"settings.py\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"application.yml\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"web.config\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.php.bak\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.php~\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.old\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"config.save\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \".env\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"database.yml\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_config.php\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"db_connection.ini\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"database.json\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"httpd.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"nginx.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"apache2.conf\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com intitle:\"index of\" \"server.xml\"",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"config/\" filetype:ini",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"config/\" filetype:xml",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"config/\" filetype:json",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"config/\" filetype:yaml",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"settings/\" filetype:py",
+        "results": []
+    },
+    {
+        "query": "site:google.com inurl:\"env\" filetype:env",
+        "results": []
+    }
+]
