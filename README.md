@@ -1,4 +1,4 @@
-# Bug Bounty Recon Framework
+# Bug Bounty Reconnaissance Automation Framework
 
 ## Overview
 The **Bug Bounty Recon Framework** is a Python-based reconnaissance tool designed to automate and streamline the information-gathering phase of bug bounty programs. It integrates multiple reconnaissance techniques and tools to identify vulnerabilities, misconfigurations, and sensitive information across target domains. The framework is modular, extensible, and suitable for both beginners and experienced security researchers.
